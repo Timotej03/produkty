@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\programovanie\c#\skuska\bin\Debug\net6.0\skuska.exe
+C:\Users\admin\Desktop\programovanie\c#\skuska\bin\Debug\net6.0\skuska.deps.json
+C:\Users\admin\Desktop\programovanie\c#\skuska\bin\Debug\net6.0\skuska.runtimeconfig.json
+C:\Users\admin\Desktop\programovanie\c#\skuska\bin\Debug\net6.0\skuska.dll
+C:\Users\admin\Desktop\programovanie\c#\skuska\bin\Debug\net6.0\ref\skuska.dll
+C:\Users\admin\Desktop\programovanie\c#\skuska\bin\Debug\net6.0\skuska.pdb
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.AssemblyInfo.cs
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.dll
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\ref\skuska.dll
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.pdb
+C:\Users\admin\Desktop\programovanie\c#\skuska\obj\Debug\net6.0\skuska.genruntimeconfig.cache
